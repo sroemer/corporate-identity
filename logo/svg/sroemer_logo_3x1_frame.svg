@@ -28,7 +28,7 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.0529882"
-     inkscape:cx="358.50354"
+     inkscape:cx="359.45322"
      inkscape:cy="268.75895"
      inkscape:window-width="2556"
      inkscape:window-height="1390"
@@ -54,6 +54,14 @@
      x="0"
      y="0"
      inkscape:label="background" />
+  <rect
+     style="display:inline;fill:none;fill-opacity:1;stroke:#606060;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1-5"
+     width="298"
+     height="98"
+     x="1"
+     y="1"
+     inkscape:label="frame" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
