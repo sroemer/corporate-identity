@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="300mm"
+   viewBox="0 0 300 300"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="sroemer_logo_1x1.svg"
+   inkscape:export-filename="../png/sroemer_logo_3x1.png"
+   inkscape:export-xdpi="254"
+   inkscape:export-ydpi="254"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.18614377"
+     inkscape:cx="2532.9883"
+     inkscape:cy="940.13351"
+     inkscape:window-width="2556"
+     inkscape:window-height="1388"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1"
+     inkscape:export-bgcolor="#ffffff00">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="300"
+       height="300"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <rect
+     style="display:inline;fill:#003060;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
+     id="rect1"
+     width="300"
+     height="300"
+     x="0"
+     y="0"
+     inkscape:label="background" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3"
+       transform="translate(1.4999987,48.704107)"
+       inkscape:label="logo">
+      <text
+         xml:space="preserve"
+         style="font-size:61.6711px;font-family:'Nimbus Roman';-inkscape-font-specification:'Nimbus Roman, ';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:1.45437"
+         x="12.218607"
+         y="96.434082"
+         id="text1"
+         inkscape:label="text_sroemer"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:61.6711px;font-family:'Anita  Semi-square';-inkscape-font-specification:'Anita  Semi-square';stroke:none;stroke-width:1.45437"
+           x="12.218607"
+           y="96.434082"><tspan
+             style="fill:#ffde80;fill-opacity:1;stroke:none;stroke-width:1.45437"
+             id="tspan2">s</tspan><tspan
+             style="fill:#0080c4;fill-opacity:1;stroke-width:1.45437"
+             id="tspan6">roemer</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.4178px;font-family:'Anita  Semi-square';-inkscape-font-specification:'Anita  Semi-square';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#606060;fill-opacity:1;stroke:none;stroke-width:1.45437"
+         x="102.54967"
+         y="134.61433"
+         id="text4"
+         inkscape:label="text_software_engineering"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="fill:#606060;fill-opacity:1;stroke:none;stroke-width:1.45437"
+           x="102.54967"
+           y="134.61433">software engineering</tspan></text>
+      <path
+         style="fill:#ffde80;fill-opacity:1;stroke:none;stroke-width:0.0443571"
+         id="path2"
+         d="m 37.347916,123.4068 c 25.7205,-5.54003 62.371023,-10.50224 98.613434,-13.35293 51.08293,-4.01 102.5857,-4.55239 141.45911,-1.48317 6.2474,0.47928 8.70816,0.7739 6.152,0.73652 -0.49015,-0.0188 -10.03812,-0.34307 -21.18535,-0.74849 -21.80408,-0.79219 -32.42791,-0.89674 -51.51334,-0.50152 -33.39941,0.69163 -71.43006,3.3938 -106.27964,7.54185 -29.088921,3.44481 -60.431289,8.48931 -84.693063,13.62347 -7.267496,1.52863 -7.937393,1.64354 -7.225932,1.16903 1.931177,-1.37112 12.418269,-4.34216 24.672781,-6.98476 z"
+         inkscape:label="arc" />
+    </g>
+  </g>
+</svg>
